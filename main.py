@@ -1,3 +1,4 @@
+# You would also require a folder named 'images' 
 import cv2
 import time
 import glob
